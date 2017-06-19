@@ -19,7 +19,7 @@
 }
 .markdown-section pre{
     border-radius: 2px;    
-    background-color: rgba(66,66,66,.15);
+    background-color: rgba(66,66,66,.1);
 }
 .markdown-section p+pre {
     background-color: rgba(215,83,42,0.05);
