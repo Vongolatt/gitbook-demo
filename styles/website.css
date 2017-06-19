@@ -65,3 +65,6 @@ li.divider,.gitbook-link {
 .markdown-section blockquote, .markdown-section dl, .markdown-section ol, .markdown-section p, .markdown-section table, .markdown-section ul{
     font-size: 16px;
 }
+.token.string {
+    color:#3b10f0; 
+}
